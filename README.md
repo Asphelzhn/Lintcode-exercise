@@ -1,2 +1,2 @@
 # Lintcode-exercise
-This repository is for the daily programming in lintcode with Python
+This repository is for the daily programming exercise in lintcode with Python
